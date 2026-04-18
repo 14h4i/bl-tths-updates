@@ -1,15 +1,19 @@
 {
-  "version": "0.1.1",
-  "published_at": "2026-04-18T22:15:00+07:00",
-  "notes": "Bản local-user đầu tiên có one-click update qua launcher, hiện hỗ trợ macOS Apple Silicon và Windows x64.",
+  "version": "0.1.2",
+  "published_at": "2026-04-18T11:36:46Z",
+  "notes": "Tự động hóa phát hành local-user cho Windows x64, macOS arm64 và macOS x64.",
   "platforms": {
     "darwin-arm64": {
-      "url": "https://github.com/14h4i/bl-tths-updates/releases/download/v0.1.1/BL-TTHS-Local-macOS.zip",
-      "sha256": "3740b83c65b6b546c97844dc8a4f615366a70474beafb15f68ab859f1143c667"
+      "url": "https://github.com/14h4i/bl-tths-updates/releases/download/v0.1.2/BL-TTHS-Local-macOS-arm64.zip",
+      "sha256": "224e0afa672d10dc47bdcfa71e93ac74ad29f7a214de5d3909d7df5d90af50b0"
+    },
+    "darwin-x64": {
+      "url": "https://github.com/14h4i/bl-tths-updates/releases/download/v0.1.2/BL-TTHS-Local-macOS-x64.zip",
+      "sha256": "62b82de4e0f77f89b7247b32691f98c75225a53243e190c85fdbe2e5bf647a89"
     },
     "windows-x64": {
-      "url": "https://github.com/14h4i/bl-tths-updates/releases/download/v0.1.1/BL-TTHS-Local-windows.zip",
-      "sha256": "e7ab919d51098a0867c2245e45b0c62c1816f4f37dbfe3e0dec9a12996edeaf6"
+      "url": "https://github.com/14h4i/bl-tths-updates/releases/download/v0.1.2/BL-TTHS-Local-windows-x64.zip",
+      "sha256": "f9c87b348168990f7f07b9969845ac6c1aa54b34d4ef51be87e766defce8f85c"
     }
   }
 }
