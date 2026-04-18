@@ -1,19 +1,19 @@
 {
-  "version": "0.1.5",
-  "published_at": "2026-04-18T16:16:37Z",
-  "notes": "Dọn gọn UI vụ việc, thêm sửa/xóa vụ việc và cập nhật launcher local-user.",
+  "version": "0.1.6",
+  "published_at": "2026-04-18T17:21:42Z",
+  "notes": "Fix Windows",
   "platforms": {
     "darwin-arm64": {
-      "url": "https://github.com/14h4i/bl-tths-updates/releases/download/v0.1.5/BL-TTHS-Local-macOS-arm64.zip",
-      "sha256": "4da0cee1a19598bcc3bfda7baf00b067fc7d61a3a5298264191d5b6603664fcc"
+      "url": "https://github.com/14h4i/bl-tths-updates/releases/download/v0.1.6/BL-TTHS-Local-macOS-arm64.zip",
+      "sha256": "efa9034c5bcb74c2ebc6193216bc1185084b6d15f4ccc992a699277ab5873bde"
     },
     "darwin-x64": {
-      "url": "https://github.com/14h4i/bl-tths-updates/releases/download/v0.1.5/BL-TTHS-Local-macOS-x64.zip",
-      "sha256": "28aa01ceb1dbaba0ebde339a6ff4159240914f297b60b4a69f10b7676e1e9781"
+      "url": "https://github.com/14h4i/bl-tths-updates/releases/download/v0.1.6/BL-TTHS-Local-macOS-x64.zip",
+      "sha256": "9e41d0b60982fd6fa51ce3b12845d64d6e1b6dba7690d9fbdefb1e1d137b4ec0"
     },
     "windows-x64": {
-      "url": "https://github.com/14h4i/bl-tths-updates/releases/download/v0.1.5/BL-TTHS-Local-windows-x64.zip",
-      "sha256": "1f709a3b218bc86c1f501cbfe2d4607a10fda8543ee4e540c52c996082d2ca82"
+      "url": "https://github.com/14h4i/bl-tths-updates/releases/download/v0.1.6/BL-TTHS-Local-windows-x64.zip",
+      "sha256": "54939a9e9756c8732a4d55b71a507b65880372e96585e877ba0f1bcbd83983bc"
     }
   }
 }
