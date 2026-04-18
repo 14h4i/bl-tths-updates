@@ -1,19 +1,19 @@
 {
-  "version": "0.1.4",
-  "published_at": "2026-04-18T14:36:10Z",
-  "notes": "Sửa local-user launcher: tự dò Docker CLI trên macOS GUI, giữ default .env khi lưu cấu hình, thêm scroll cho nhật ký launcher, cải thiện trạng thái màu và vá luồng kiểm tra cập nhật.",
+  "version": "0.1.5",
+  "published_at": "2026-04-18T16:16:37Z",
+  "notes": "Dọn gọn UI vụ việc, thêm sửa/xóa vụ việc và cập nhật launcher local-user.",
   "platforms": {
     "darwin-arm64": {
-      "url": "https://github.com/14h4i/bl-tths-updates/releases/download/v0.1.4/BL-TTHS-Local-macOS-arm64.zip",
-      "sha256": "26ffb784c205fe187d08e9fca1575124e57a9e7c05e3f1532ac4cc8811b27394"
+      "url": "https://github.com/14h4i/bl-tths-updates/releases/download/v0.1.5/BL-TTHS-Local-macOS-arm64.zip",
+      "sha256": "4da0cee1a19598bcc3bfda7baf00b067fc7d61a3a5298264191d5b6603664fcc"
     },
     "darwin-x64": {
-      "url": "https://github.com/14h4i/bl-tths-updates/releases/download/v0.1.4/BL-TTHS-Local-macOS-x64.zip",
-      "sha256": "17e9e2a4d6ed11e5835a265f88a6df3410a1be81cf00220fc2f93c3f4df6d75a"
+      "url": "https://github.com/14h4i/bl-tths-updates/releases/download/v0.1.5/BL-TTHS-Local-macOS-x64.zip",
+      "sha256": "28aa01ceb1dbaba0ebde339a6ff4159240914f297b60b4a69f10b7676e1e9781"
     },
     "windows-x64": {
-      "url": "https://github.com/14h4i/bl-tths-updates/releases/download/v0.1.4/BL-TTHS-Local-windows-x64.zip",
-      "sha256": "a85dac5a537740207e82432a9f0266871f8cf9e0f2c88e42440008a7a84a0e4e"
+      "url": "https://github.com/14h4i/bl-tths-updates/releases/download/v0.1.5/BL-TTHS-Local-windows-x64.zip",
+      "sha256": "1f709a3b218bc86c1f501cbfe2d4607a10fda8543ee4e540c52c996082d2ca82"
     }
   }
 }
