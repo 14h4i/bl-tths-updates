@@ -14,8 +14,9 @@ Repo này dùng để phát hành **artifact update public** cho launcher local-
 - `latest.json`
 - `.nojekyll`
 - GitHub Releases chứa:
-  - `BL-TTHS-Local-macOS.zip`
-  - `BL-TTHS-Local-windows.zip`
+  - `BL-TTHS-Local-macOS-arm64.zip`
+  - `BL-TTHS-Local-macOS-x64.zip`
+  - `BL-TTHS-Local-windows-x64.zip`
 
 ## Khuyến nghị
 
@@ -30,5 +31,6 @@ Nếu repo là `org/bl-tths-updates`:
 - manifest:
   - `https://org.github.io/bl-tths-updates/latest.json`
 - artifact:
-  - `https://github.com/org/bl-tths-updates/releases/download/v0.1.1/BL-TTHS-Local-macOS.zip`
-  - `https://github.com/org/bl-tths-updates/releases/download/v0.1.1/BL-TTHS-Local-windows.zip`
+  - `https://github.com/org/bl-tths-updates/releases/download/v0.1.1/BL-TTHS-Local-macOS-arm64.zip`
+  - `https://github.com/org/bl-tths-updates/releases/download/v0.1.1/BL-TTHS-Local-macOS-x64.zip`
+  - `https://github.com/org/bl-tths-updates/releases/download/v0.1.1/BL-TTHS-Local-windows-x64.zip`

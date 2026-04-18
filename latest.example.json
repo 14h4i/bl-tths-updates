@@ -4,11 +4,15 @@
   "notes": "Sửa launcher và cập nhật runtime local-user.",
   "platforms": {
     "darwin-arm64": {
-      "url": "https://github.com/org/bl-tths-updates/releases/download/v0.1.1/BL-TTHS-Local-macOS.zip",
+      "url": "https://github.com/org/bl-tths-updates/releases/download/v0.1.1/BL-TTHS-Local-macOS-arm64.zip",
+      "sha256": "..."
+    },
+    "darwin-x64": {
+      "url": "https://github.com/org/bl-tths-updates/releases/download/v0.1.1/BL-TTHS-Local-macOS-x64.zip",
       "sha256": "..."
     },
     "windows-x64": {
-      "url": "https://github.com/org/bl-tths-updates/releases/download/v0.1.1/BL-TTHS-Local-windows.zip",
+      "url": "https://github.com/org/bl-tths-updates/releases/download/v0.1.1/BL-TTHS-Local-windows-x64.zip",
       "sha256": "..."
     }
   }
