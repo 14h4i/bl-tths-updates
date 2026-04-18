@@ -1,19 +1,19 @@
 {
-  "version": "0.1.2",
-  "published_at": "2026-04-18T11:36:46Z",
-  "notes": "Tự động hóa phát hành local-user cho Windows x64, macOS arm64 và macOS x64.",
+  "version": "0.1.3",
+  "published_at": "2026-04-18T13:30:00Z",
+  "notes": "Sửa launcher local-user: tăng kích thước mặc định, thêm cuộn cho toàn bộ form, và hiển thị lỗi rõ ràng khi mở launcher ngoài thư mục BL-TTHS-Local hoặc thiếu metadata bundle.",
   "platforms": {
     "darwin-arm64": {
-      "url": "https://github.com/14h4i/bl-tths-updates/releases/download/v0.1.2/BL-TTHS-Local-macOS-arm64.zip",
-      "sha256": "224e0afa672d10dc47bdcfa71e93ac74ad29f7a214de5d3909d7df5d90af50b0"
+      "url": "https://github.com/14h4i/bl-tths-updates/releases/download/v0.1.3/BL-TTHS-Local-macOS-arm64.zip",
+      "sha256": "cbcb85d7db1d36eb2d5f2aef9fbbceaab7dea89675583b595e1dfe05576c1884"
     },
     "darwin-x64": {
-      "url": "https://github.com/14h4i/bl-tths-updates/releases/download/v0.1.2/BL-TTHS-Local-macOS-x64.zip",
-      "sha256": "62b82de4e0f77f89b7247b32691f98c75225a53243e190c85fdbe2e5bf647a89"
+      "url": "https://github.com/14h4i/bl-tths-updates/releases/download/v0.1.3/BL-TTHS-Local-macOS-x64.zip",
+      "sha256": "34f04fcf0d8f85f11a02afb2c13cb2c05a219fdf0b3614b73eb2f8bc747e5471"
     },
     "windows-x64": {
-      "url": "https://github.com/14h4i/bl-tths-updates/releases/download/v0.1.2/BL-TTHS-Local-windows-x64.zip",
-      "sha256": "f9c87b348168990f7f07b9969845ac6c1aa54b34d4ef51be87e766defce8f85c"
+      "url": "https://github.com/14h4i/bl-tths-updates/releases/download/v0.1.3/BL-TTHS-Local-windows-x64.zip",
+      "sha256": "a40ffc7ef354f4a606543f9472c2c0054c88f1a1022d9a2f57c8b2821a46b1ed"
     }
   }
 }
